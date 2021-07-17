@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Electrical and Electronics Engineering Junior in Singapore's Nanyang Technological University. My passion lies in software defined radio and wireless security. In my free time I participate in competition with friends, learn new concepts, and contribute to open source projects. I may also write an article or two on things I find interesting, which you can read on https://medium.com/@solomontan_68263. 
 <!--
 **solomonbstoner/solomonbstoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
